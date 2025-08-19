@@ -1,0 +1,8 @@
+<!-- public/images/service_delivery.svg -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="44" height="30" rx="8" fill="orange"/>
+<rect x="15" y="40" width="34" height="14" rx="4" fill="red"/>
+<circle cx="25" cy="50" r="5" fill="yellow"/>
+<circle cx="45" cy="50" r="5" fill="yellow"/>
+<path d="M20 20H44V30H20V20Z" fill="white"/>
+</svg>
