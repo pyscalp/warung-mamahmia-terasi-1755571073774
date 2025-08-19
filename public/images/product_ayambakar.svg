@@ -1,0 +1,8 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" y="30" width="60" height="40" rx="10" fill="orange"/>
+<path d="M30 30L20 20L25 15L35 25L30 30Z" fill="red"/>
+<path d="M70 30L80 20L75 15L65 25L70 30Z" fill="red"/>
+<path d="M40 70L30 80L35 85L45 75L40 70Z" fill="red"/>
+<path d="M60 70L70 80L65 85L55 75L60 70Z" fill="red"/>
+<circle cx="50" cy="50" r="10" fill="yellow"/>
+</svg>
