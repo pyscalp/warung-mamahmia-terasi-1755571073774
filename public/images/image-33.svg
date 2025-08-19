@@ -1,0 +1,7 @@
+<!-- public/images/service_catering.svg -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="44" height="44" rx="8" fill="orange"/>
+<path d="M20 20H44V30H20V20Z" fill="red"/>
+<path d="M20 34H44V44H20V34Z" fill="yellow"/>
+<rect x="28" y="15" width="8" height="34" fill="white"/>
+</svg>
